@@ -1,0 +1,60 @@
+Bloodbath
+Italy
+2026-09-04 14:00:00
+2R+F
+14 players
+Luca Turicchi
+
+https://archon.vekn.net/t/13439
+
+Deck Name: BIZARRE
+
+Crypt (12 cards)
+----------------
+4x Sha-Ennu                       11  obf tha ANI AUS CHI VIC Tzimisce:4
+4x Orlando Oriundus                9  obf AUS DOM THA      Tremere antitribu:4
+1x Paul Cordwood                   8  obf pre AUS DOM THA  Tremere antitribu:4
+2x Marie Faucigny                  7  dem tha AUS OBF      Malkavian antitribu:3
+1x Stavros                         7  dem AUS OBF PRE      Malkavian antitribu:4
+
+Library (79 cards)
+Master (19)
+1x Black Forest Base
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Día de los Muertos
+1x Giant's Blood
+1x Information Highway
+1x Monastery of Shadows
+6x Unholy Sacrament
+6x Villein
+Action (9)
+4x Abactor
+3x Magic of the Smith
+2x Rutor's Hand
+Ally (2)
+2x Mylan Horseed
+Equipment (3)
+1x Heart of Nizchetus
+1x Helicopter
+1x The Sargon Fragment
+Political Action (16)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+1x Cardinal Benediction
+3x Cold War
+4x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+1x Transfer of Power
+Action Modifier (15)
+1x Cryptic Rider
+6x Forgotten Labyrinth
+4x Into Thin Air
+4x Mirror Walk
+Reaction (15)
+5x Eyes of Argus
+3x My Enemy's Enemy
+7x Telepathic Misdirection
